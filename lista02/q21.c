@@ -1,0 +1,2 @@
+/*Escrever um programa que leia um conjunto de n notas. Para isso, o programa lˆe a dimens˜ao do vetor e as notas, uma a uma. Ap´os a leitura das notas, o programa calcula e imprime a m´edia geom´etrica das notas armazenadas no vetor.
+Fórmula: mg = pow(mult, 1.0/n) e mult = a1*a2*a3*...*an */ 
